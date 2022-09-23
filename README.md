@@ -20,7 +20,7 @@ npm install -g @angular/cli@13
 ## Executing program
 * Download the repository to your computer and go to project file
 ```
-git clone https://github.com/sayedh/angular-EmployeeCRUD
+git clone https://github.com/mobenh/angular-EmployeeCRUD
 cd angular-EmployeeCRUD
 ```
 * Add node modules to project files by runing comand
